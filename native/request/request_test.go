@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/bsm/openrtb/v3"
-	. "github.com/bsm/openrtb/v3/native/request"
+	"github.com/intent-ai/openrtb"
+	. "github.com/intent-ai/openrtb/native/request"
 )
 
 func TestRequest(t *testing.T) {

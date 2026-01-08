@@ -3,7 +3,7 @@ package request
 import (
 	"encoding/json"
 
-	"github.com/bsm/openrtb/v3"
+	"github.com/intent-ai/openrtb"
 )
 
 // Video is the native video object.

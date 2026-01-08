@@ -1,3 +1,3 @@
-module github.com/bsm/openrtb/v3
+module github.com/intent-ai/openrtb
 
 go 1.13
