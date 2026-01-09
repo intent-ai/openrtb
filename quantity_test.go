@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/bsm/openrtb/v3"
+	. "github.com/intent-ai/openrtb"
 )
 
 func TestQuantity(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	. "github.com/bsm/openrtb/v3"
+	. "github.com/intent-ai/openrtb"
 )
 
 func TestSeatBid_Validate(t *testing.T) {
